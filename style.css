@@ -1,0 +1,33 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    background-color: whitesmoke ;
+}
+
+header{
+    background-color: #071952;
+}
+
+header span{
+    color: #EEEDEB;
+}
+.nav-item a{
+    color: #EEEDEB;
+}
+
+.nav-item a:visited{
+    color:white ;
+} 
+
+.nav-item a:hover{
+    color:#088395 ;
+}
+
+#nav-butoon{
+    background-color: #088395;
+}
+.bi{
+    color:#088395;
+}
