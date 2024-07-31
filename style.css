@@ -1,33 +1,59 @@
-*{
+* {
     font-family: "Poppins", sans-serif;
 }
 
-body{
-    background-color: whitesmoke ;
+body {
+    background-color: whitesmoke;
 }
 
-header{
+header {
     background-color: #071952;
 }
 
-header span{
-    color: #EEEDEB;
-}
-.nav-item a{
+header span {
     color: #EEEDEB;
 }
 
-.nav-item a:visited{
-    color:white ;
-} 
-
-.nav-item a:hover{
-    color:#088395 ;
+.nav-item a {
+    color: #EEEDEB;
 }
 
-#nav-butoon{
+.nav-item a:visited {
+    color: white;
+}
+
+.nav-item a:hover {
+    color: #088395;
+}
+
+#nav-butoon {
     background-color: #088395;
 }
-.bi{
-    color:#088395;
+
+.icon-habilidades {
+    color: #088395;
+    font-size: 2em;
+}
+
+.img-proyecto1 {
+    background-image: url('/assets/clonpinterest.jpeg');
+    opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+footer{
+    background-color: #071952;
+}
+
+footer .icon-footer i{
+    color: #EEEDEB;
+}
+
+footer p{
+    color: #EEEDEB;
+}
+
+footer p a{
+    color: #EEEDEB;
 }
