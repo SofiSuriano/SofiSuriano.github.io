@@ -24,4 +24,4 @@ Podrás encontrarlo aquí [Portafolio](https://github.com/SofiSuriano).
 
 ## Captura del proyecto 
 
-![Captura del proyecto](/assets/Capturaportafolio.png)
+![Captura del proyecto](/assets/Capturaportafolio2.png)
