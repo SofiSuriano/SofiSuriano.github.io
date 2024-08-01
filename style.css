@@ -57,3 +57,9 @@ footer p{
 footer p a{
     color: #EEEDEB;
 }
+
+.btn{
+    color: #EEEDEB;
+    border-color: #088395;
+    background-color: #088395;
+}
